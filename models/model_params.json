@@ -1,0 +1,19 @@
+{
+  "version": "xgb_v1",
+  "accuracy": 0.6008097165991902,
+  "params": {
+    "n_estimators": 500,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "min_child_weight": 3,
+    "gamma": 0.1,
+    "reg_alpha": 0.1,
+    "reg_lambda": 1.0,
+    "objective": "multi:softprob",
+    "num_class": 3,
+    "eval_metric": "mlogloss",
+    "random_state": 42
+  }
+}
