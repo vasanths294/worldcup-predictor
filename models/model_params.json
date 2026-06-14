@@ -1,6 +1,6 @@
 {
   "version": "xgb_v1",
-  "accuracy": 0.6008097165991902,
+  "accuracy": 0.5959514170040486,
   "params": {
     "n_estimators": 500,
     "max_depth": 4,
