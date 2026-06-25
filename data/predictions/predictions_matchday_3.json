@@ -1,0 +1,1221 @@
+{
+  "generated_at": "2026-06-24T20:38:33.646262",
+  "matchday": "Matchday 3",
+  "stage": "Group Stage",
+  "model_version": "xgb_v1",
+  "total": 24,
+  "predictions": [
+    {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
+      "city": "Vancouver",
+      "neutral": 0,
+      "home_win_prob": "0.346",
+      "draw_prob": "0.236",
+      "away_win_prob": "0.418",
+      "predicted": "away_win",
+      "predicted_winner": "Canada",
+      "confidence": "LOW",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0762
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0752
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0731
+        },
+        {
+          "score": "2-1",
+          "prob": 0.0721
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0515
+        }
+      ],
+      "top_home_score": {
+        "score": "2-1",
+        "prob": 0.0721
+      },
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0752
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0762
+      },
+      "home_elo": 1755.6,
+      "away_elo": 1754.9,
+      "match_id": 537337,
+      "date": "2026-06-24",
+      "group": "B",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
+      "city": "Seattle",
+      "neutral": 1,
+      "home_win_prob": "0.431",
+      "draw_prob": "0.242",
+      "away_win_prob": "0.327",
+      "predicted": "home_win",
+      "predicted_winner": "Bosnia and Herzegovina",
+      "confidence": "LOW",
+      "top_scorelines": [
+        {
+          "score": "1-0",
+          "prob": 0.1922
+        },
+        {
+          "score": "0-0",
+          "prob": 0.1593
+        },
+        {
+          "score": "1-1",
+          "prob": 0.1211
+        },
+        {
+          "score": "2-0",
+          "prob": 0.116
+        },
+        {
+          "score": "0-1",
+          "prob": 0.1004
+        }
+      ],
+      "top_home_score": {
+        "score": "1-0",
+        "prob": 0.1922
+      },
+      "top_draw_score": {
+        "score": "0-0",
+        "prob": 0.1593
+      },
+      "top_away_score": {
+        "score": "0-1",
+        "prob": 0.1004
+      },
+      "home_elo": 1582.3,
+      "away_elo": 1605.4,
+      "match_id": 537338,
+      "date": "2026-06-24",
+      "group": "B",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Morocco",
+      "away_team": "Haiti",
+      "city": "Atlanta",
+      "neutral": 1,
+      "home_win_prob": "0.798",
+      "draw_prob": "0.163",
+      "away_win_prob": "0.039",
+      "predicted": "home_win",
+      "predicted_winner": "Morocco",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "2-0",
+          "prob": 0.0948
+        },
+        {
+          "score": "3-0",
+          "prob": 0.0909
+        },
+        {
+          "score": "2-1",
+          "prob": 0.0853
+        },
+        {
+          "score": "3-1",
+          "prob": 0.0818
+        },
+        {
+          "score": "1-0",
+          "prob": 0.0659
+        }
+      ],
+      "top_home_score": {
+        "score": "2-0",
+        "prob": 0.0948
+      },
+      "top_draw_score": null,
+      "top_away_score": null,
+      "home_elo": 1892.9,
+      "away_elo": 1599.9,
+      "match_id": 537344,
+      "date": "2026-06-24",
+      "group": "C",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Scotland",
+      "away_team": "Brazil",
+      "city": "Miami",
+      "neutral": 1,
+      "home_win_prob": "0.17",
+      "draw_prob": "0.172",
+      "away_win_prob": "0.658",
+      "predicted": "away_win",
+      "predicted_winner": "Brazil",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-3",
+          "prob": 0.0745
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0724
+        },
+        {
+          "score": "1-4",
+          "prob": 0.0575
+        },
+        {
+          "score": "2-3",
+          "prob": 0.0565
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0549
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "2-2",
+        "prob": 0.0549
+      },
+      "top_away_score": {
+        "score": "1-3",
+        "prob": 0.0745
+      },
+      "home_elo": 1725.0,
+      "away_elo": 1859.2,
+      "match_id": 537343,
+      "date": "2026-06-24",
+      "group": "C",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Czech Republic",
+      "away_team": "Mexico",
+      "city": "Mexico City",
+      "neutral": 0,
+      "home_win_prob": "0.248",
+      "draw_prob": "0.266",
+      "away_win_prob": "0.486",
+      "predicted": "away_win",
+      "predicted_winner": "Mexico",
+      "confidence": "MEDIUM",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0752
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0719
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0663
+        },
+        {
+          "score": "2-1",
+          "prob": 0.0634
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0569
+        }
+      ],
+      "top_home_score": {
+        "score": "2-1",
+        "prob": 0.0634
+      },
+      "top_draw_score": {
+        "score": "2-2",
+        "prob": 0.0719
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0752
+      },
+      "home_elo": 1658.0,
+      "away_elo": 1855.0,
+      "match_id": 537331,
+      "date": "2026-06-25",
+      "group": "A",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "South Africa",
+      "away_team": "South Korea",
+      "city": "Monterrey",
+      "neutral": 1,
+      "home_win_prob": "0.081",
+      "draw_prob": "0.161",
+      "away_win_prob": "0.758",
+      "predicted": "away_win",
+      "predicted_winner": "South Korea",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "0-2",
+          "prob": 0.1552
+        },
+        {
+          "score": "0-1",
+          "prob": 0.1375
+        },
+        {
+          "score": "0-3",
+          "prob": 0.1168
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0839
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0744
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0744
+      },
+      "top_away_score": {
+        "score": "0-2",
+        "prob": 0.1552
+      },
+      "home_elo": 1624.6,
+      "away_elo": 1822.3,
+      "match_id": 537332,
+      "date": "2026-06-25",
+      "group": "A",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Ecuador",
+      "away_team": "Germany",
+      "city": "New York/NJ",
+      "neutral": 1,
+      "home_win_prob": "0.227",
+      "draw_prob": "0.223",
+      "away_win_prob": "0.55",
+      "predicted": "away_win",
+      "predicted_winner": "Germany",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-3",
+          "prob": 0.0807
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0755
+        },
+        {
+          "score": "0-3",
+          "prob": 0.0684
+        },
+        {
+          "score": "1-4",
+          "prob": 0.0647
+        },
+        {
+          "score": "0-2",
+          "prob": 0.064
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": null,
+      "top_away_score": {
+        "score": "1-3",
+        "prob": 0.0807
+      },
+      "home_elo": 1790.8,
+      "away_elo": 1866.3,
+      "match_id": 537355,
+      "date": "2026-06-25",
+      "group": "E",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Cura\u00e7ao",
+      "away_team": "Ivory Coast",
+      "city": "Philadelphia",
+      "neutral": 1,
+      "home_win_prob": "0.055",
+      "draw_prob": "0.131",
+      "away_win_prob": "0.815",
+      "predicted": "away_win",
+      "predicted_winner": "Ivory Coast",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0945
+        },
+        {
+          "score": "0-2",
+          "prob": 0.089
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0782
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0762
+        },
+        {
+          "score": "0-3",
+          "prob": 0.0737
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0762
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0945
+      },
+      "home_elo": 1544.1,
+      "away_elo": 1778.1,
+      "match_id": 537356,
+      "date": "2026-06-25",
+      "group": "E",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "city": "Kansas City",
+      "neutral": 1,
+      "home_win_prob": "0.044",
+      "draw_prob": "0.095",
+      "away_win_prob": "0.862",
+      "predicted": "away_win",
+      "predicted_winner": "Netherlands",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "0-2",
+          "prob": 0.1489
+        },
+        {
+          "score": "0-3",
+          "prob": 0.1336
+        },
+        {
+          "score": "0-1",
+          "prob": 0.1106
+        },
+        {
+          "score": "0-4",
+          "prob": 0.0899
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0744
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": null,
+      "top_away_score": {
+        "score": "0-2",
+        "prob": 0.1489
+      },
+      "home_elo": 1632.3,
+      "away_elo": 1845.5,
+      "match_id": 537361,
+      "date": "2026-06-25",
+      "group": "F",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Japan",
+      "away_team": "Sweden",
+      "city": "Dallas",
+      "neutral": 1,
+      "home_win_prob": "0.676",
+      "draw_prob": "0.204",
+      "away_win_prob": "0.12",
+      "predicted": "home_win",
+      "predicted_winner": "Japan",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "2-1",
+          "prob": 0.077
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0716
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0677
+        },
+        {
+          "score": "1-2",
+          "prob": 0.063
+        },
+        {
+          "score": "3-1",
+          "prob": 0.0584
+        }
+      ],
+      "top_home_score": {
+        "score": "2-1",
+        "prob": 0.077
+      },
+      "top_draw_score": {
+        "score": "2-2",
+        "prob": 0.0716
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.063
+      },
+      "home_elo": 1877.5,
+      "away_elo": 1687.6,
+      "match_id": 537362,
+      "date": "2026-06-25",
+      "group": "F",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Turkey",
+      "away_team": "United States",
+      "city": "Los Angeles",
+      "neutral": 0,
+      "home_win_prob": "0.393",
+      "draw_prob": "0.281",
+      "away_win_prob": "0.326",
+      "predicted": "home_win",
+      "predicted_winner": "Turkey",
+      "confidence": "LOW",
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "prob": 0.0933
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0882
+        },
+        {
+          "score": "2-1",
+          "prob": 0.0732
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0692
+        },
+        {
+          "score": "0-1",
+          "prob": 0.0595
+        }
+      ],
+      "top_home_score": {
+        "score": "2-1",
+        "prob": 0.0732
+      },
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0933
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0882
+      },
+      "home_elo": 1772.6,
+      "away_elo": 1802.2,
+      "match_id": 537349,
+      "date": "2026-06-26",
+      "group": "D",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Paraguay",
+      "away_team": "Australia",
+      "city": "San Francisco",
+      "neutral": 1,
+      "home_win_prob": "0.165",
+      "draw_prob": "0.2",
+      "away_win_prob": "0.635",
+      "predicted": "away_win",
+      "predicted_winner": "Australia",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0942
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0908
+        },
+        {
+          "score": "0-2",
+          "prob": 0.0689
+        },
+        {
+          "score": "0-1",
+          "prob": 0.0664
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0651
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0908
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0942
+      },
+      "home_elo": 1713.1,
+      "away_elo": 1838.8,
+      "match_id": 537350,
+      "date": "2026-06-26",
+      "group": "D",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Norway",
+      "away_team": "France",
+      "city": "Boston",
+      "neutral": 1,
+      "home_win_prob": "0.213",
+      "draw_prob": "0.213",
+      "away_win_prob": "0.574",
+      "predicted": "away_win",
+      "predicted_winner": "France",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0713
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0663
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0637
+        },
+        {
+          "score": "2-3",
+          "prob": 0.0592
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0532
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "2-2",
+        "prob": 0.0663
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0713
+      },
+      "home_elo": 1798.6,
+      "away_elo": 1939.1,
+      "match_id": 537395,
+      "date": "2026-06-26",
+      "group": "I",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Senegal",
+      "away_team": "Iraq",
+      "city": "Toronto",
+      "neutral": 1,
+      "home_win_prob": "0.617",
+      "draw_prob": "0.222",
+      "away_win_prob": "0.161",
+      "predicted": "home_win",
+      "predicted_winner": "Senegal",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "2-0",
+          "prob": 0.1395
+        },
+        {
+          "score": "1-0",
+          "prob": 0.1365
+        },
+        {
+          "score": "3-0",
+          "prob": 0.0951
+        },
+        {
+          "score": "2-1",
+          "prob": 0.0924
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0904
+        }
+      ],
+      "top_home_score": {
+        "score": "2-0",
+        "prob": 0.1395
+      },
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0904
+      },
+      "top_away_score": null,
+      "home_elo": 1782.8,
+      "away_elo": 1680.8,
+      "match_id": 537396,
+      "date": "2026-06-26",
+      "group": "I",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Uruguay",
+      "away_team": "Spain",
+      "city": "Guadalajara",
+      "neutral": 1,
+      "home_win_prob": "0.048",
+      "draw_prob": "0.128",
+      "away_win_prob": "0.824",
+      "predicted": "away_win",
+      "predicted_winner": "Spain",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "0-2",
+          "prob": 0.1215
+        },
+        {
+          "score": "0-1",
+          "prob": 0.1032
+        },
+        {
+          "score": "0-3",
+          "prob": 0.0954
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0939
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0797
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0797
+      },
+      "top_away_score": {
+        "score": "0-2",
+        "prob": 0.1215
+      },
+      "home_elo": 1776.8,
+      "away_elo": 1956.0,
+      "match_id": 537373,
+      "date": "2026-06-27",
+      "group": "H",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Cape Verde",
+      "away_team": "Saudi Arabia",
+      "city": "Houston",
+      "neutral": 1,
+      "home_win_prob": "0.35",
+      "draw_prob": "0.294",
+      "away_win_prob": "0.356",
+      "predicted": "away_win",
+      "predicted_winner": "Saudi Arabia",
+      "confidence": "LOW",
+      "top_scorelines": [
+        {
+          "score": "1-1",
+          "prob": 0.1252
+        },
+        {
+          "score": "1-0",
+          "prob": 0.1014
+        },
+        {
+          "score": "0-1",
+          "prob": 0.0917
+        },
+        {
+          "score": "2-1",
+          "prob": 0.0855
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0773
+        }
+      ],
+      "top_home_score": {
+        "score": "1-0",
+        "prob": 0.1014
+      },
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.1252
+      },
+      "top_away_score": {
+        "score": "0-1",
+        "prob": 0.0917
+      },
+      "home_elo": 1627.4,
+      "away_elo": 1671.5,
+      "match_id": 537374,
+      "date": "2026-06-27",
+      "group": "H",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
+      "city": "Vancouver",
+      "neutral": 1,
+      "home_win_prob": "0.093",
+      "draw_prob": "0.145",
+      "away_win_prob": "0.762",
+      "predicted": "away_win",
+      "predicted_winner": "Belgium",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0954
+        },
+        {
+          "score": "0-2",
+          "prob": 0.0853
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0794
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0764
+        },
+        {
+          "score": "0-1",
+          "prob": 0.071
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0794
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0954
+      },
+      "home_elo": 1646.0,
+      "away_elo": 1777.8,
+      "match_id": 537367,
+      "date": "2026-06-27",
+      "group": "G",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Egypt",
+      "away_team": "Iran",
+      "city": "Seattle",
+      "neutral": 1,
+      "home_win_prob": "0.263",
+      "draw_prob": "0.182",
+      "away_win_prob": "0.556",
+      "predicted": "away_win",
+      "predicted_winner": "Iran",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0919
+        },
+        {
+          "score": "1-3",
+          "prob": 0.077
+        },
+        {
+          "score": "0-2",
+          "prob": 0.0745
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0731
+        },
+        {
+          "score": "0-3",
+          "prob": 0.0624
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0731
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0919
+      },
+      "home_elo": 1735.8,
+      "away_elo": 1793.5,
+      "match_id": 537368,
+      "date": "2026-06-27",
+      "group": "G",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Panama",
+      "away_team": "England",
+      "city": "New York/NJ",
+      "neutral": 1,
+      "home_win_prob": "0.037",
+      "draw_prob": "0.085",
+      "away_win_prob": "0.878",
+      "predicted": "away_win",
+      "predicted_winner": "England",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0954
+        },
+        {
+          "score": "0-2",
+          "prob": 0.0921
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0783
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0775
+        },
+        {
+          "score": "0-1",
+          "prob": 0.0756
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0783
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0954
+      },
+      "home_elo": 1694.0,
+      "away_elo": 1908.9,
+      "match_id": 537413,
+      "date": "2026-06-27",
+      "group": "L",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Croatia",
+      "away_team": "Ghana",
+      "city": "Philadelphia",
+      "neutral": 1,
+      "home_win_prob": "0.672",
+      "draw_prob": "0.221",
+      "away_win_prob": "0.107",
+      "predicted": "home_win",
+      "predicted_winner": "Croatia",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-0",
+          "prob": 0.1629
+        },
+        {
+          "score": "2-0",
+          "prob": 0.1504
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0947
+        },
+        {
+          "score": "3-0",
+          "prob": 0.0926
+        },
+        {
+          "score": "0-0",
+          "prob": 0.0882
+        }
+      ],
+      "top_home_score": {
+        "score": "1-0",
+        "prob": 0.1629
+      },
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0947
+      },
+      "top_away_score": null,
+      "home_elo": 1785.9,
+      "away_elo": 1614.4,
+      "match_id": 537414,
+      "date": "2026-06-27",
+      "group": "L",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Colombia",
+      "away_team": "Portugal",
+      "city": "Miami",
+      "neutral": 1,
+      "home_win_prob": "0.205",
+      "draw_prob": "0.183",
+      "away_win_prob": "0.612",
+      "predicted": "away_win",
+      "predicted_winner": "Portugal",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0778
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0673
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0664
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0599
+        },
+        {
+          "score": "2-3",
+          "prob": 0.0575
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": {
+        "score": "2-2",
+        "prob": 0.0664
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0778
+      },
+      "home_elo": 1866.2,
+      "away_elo": 1856.1,
+      "match_id": 537407,
+      "date": "2026-06-27",
+      "group": "K",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
+      "city": "Atlanta",
+      "neutral": 1,
+      "home_win_prob": "0.546",
+      "draw_prob": "0.186",
+      "away_win_prob": "0.268",
+      "predicted": "home_win",
+      "predicted_winner": "DR Congo",
+      "confidence": "MEDIUM",
+      "top_scorelines": [
+        {
+          "score": "1-0",
+          "prob": 0.1815
+        },
+        {
+          "score": "0-0",
+          "prob": 0.1465
+        },
+        {
+          "score": "1-1",
+          "prob": 0.1238
+        },
+        {
+          "score": "2-0",
+          "prob": 0.1124
+        },
+        {
+          "score": "0-1",
+          "prob": 0.0999
+        }
+      ],
+      "top_home_score": {
+        "score": "1-0",
+        "prob": 0.1815
+      },
+      "top_draw_score": {
+        "score": "0-0",
+        "prob": 0.1465
+      },
+      "top_away_score": {
+        "score": "0-1",
+        "prob": 0.0999
+      },
+      "home_elo": 1697.0,
+      "away_elo": 1737.8,
+      "match_id": 537408,
+      "date": "2026-06-27",
+      "group": "K",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "city": "Dallas",
+      "neutral": 1,
+      "home_win_prob": "0.02",
+      "draw_prob": "0.084",
+      "away_win_prob": "0.896",
+      "predicted": "away_win",
+      "predicted_winner": "Argentina",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "0-3",
+          "prob": 0.1048
+        },
+        {
+          "score": "0-2",
+          "prob": 0.0913
+        },
+        {
+          "score": "0-4",
+          "prob": 0.0903
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0765
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0666
+        }
+      ],
+      "top_home_score": null,
+      "top_draw_score": null,
+      "top_away_score": {
+        "score": "0-3",
+        "prob": 0.1048
+      },
+      "home_elo": 1681.6,
+      "away_elo": 1972.2,
+      "match_id": 537401,
+      "date": "2026-06-28",
+      "group": "J",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    },
+    {
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "city": "Kansas City",
+      "neutral": 1,
+      "home_win_prob": "0.322",
+      "draw_prob": "0.268",
+      "away_win_prob": "0.41",
+      "predicted": "away_win",
+      "predicted_winner": "Austria",
+      "confidence": "LOW",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0917
+        },
+        {
+          "score": "1-1",
+          "prob": 0.091
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0671
+        },
+        {
+          "score": "2-1",
+          "prob": 0.0665
+        },
+        {
+          "score": "0-2",
+          "prob": 0.0627
+        }
+      ],
+      "top_home_score": {
+        "score": "2-1",
+        "prob": 0.0665
+      },
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.091
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0917
+      },
+      "home_elo": 1782.7,
+      "away_elo": 1760.1,
+      "match_id": 537402,
+      "date": "2026-06-28",
+      "group": "J",
+      "stage": "Group Stage",
+      "matchday": "Matchday 3"
+    }
+  ]
+}

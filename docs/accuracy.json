@@ -1,14 +1,20 @@
 {
-  "total_predicted": 24,
-  "total_correct": 12,
-  "accuracy": 0.5,
+  "total_predicted": 48,
+  "total_correct": 29,
+  "accuracy": 0.604,
   "by_matchday": [
     {
       "matchday": "Matchday 1",
       "correct": 12,
       "total": 24,
       "accuracy": 0.5
+    },
+    {
+      "matchday": "Matchday 2",
+      "correct": 17,
+      "total": 24,
+      "accuracy": 0.708
     }
   ],
-  "last_updated": "2026-06-23T18:58:53.435948"
+  "last_updated": "2026-06-24T19:33:55.557994"
 }
