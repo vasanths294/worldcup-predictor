@@ -646,5 +646,149 @@
     "home_score": 3,
     "away_score": 3,
     "outcome": "draw"
+  },
+  {
+    "match_id": "537417",
+    "date": "2026-06-28",
+    "home_team": "South Africa",
+    "away_team": "Canada",
+    "home_score": 0,
+    "away_score": 1,
+    "outcome": "away_win"
+  },
+  {
+    "match_id": "537423",
+    "date": "2026-06-29",
+    "home_team": "Brazil",
+    "away_team": "Japan",
+    "home_score": 2,
+    "away_score": 1,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537415",
+    "date": "2026-06-29",
+    "home_team": "Germany",
+    "away_team": "Paraguay",
+    "home_score": 1,
+    "away_score": 1,
+    "outcome": "draw"
+  },
+  {
+    "match_id": "537418",
+    "date": "2026-06-30",
+    "home_team": "Netherlands",
+    "away_team": "Morocco",
+    "home_score": 1,
+    "away_score": 1,
+    "outcome": "draw"
+  },
+  {
+    "match_id": "537424",
+    "date": "2026-06-30",
+    "home_team": "Ivory Coast",
+    "away_team": "Norway",
+    "home_score": 1,
+    "away_score": 2,
+    "outcome": "away_win"
+  },
+  {
+    "match_id": "537416",
+    "date": "2026-06-30",
+    "home_team": "France",
+    "away_team": "Sweden",
+    "home_score": 3,
+    "away_score": 0,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537425",
+    "date": "2026-07-01",
+    "home_team": "Mexico",
+    "away_team": "Ecuador",
+    "home_score": 2,
+    "away_score": 0,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537426",
+    "date": "2026-07-01",
+    "home_team": "England",
+    "away_team": "DR Congo",
+    "home_score": 2,
+    "away_score": 1,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537422",
+    "date": "2026-07-01",
+    "home_team": "Belgium",
+    "away_team": "Senegal",
+    "home_score": 3,
+    "away_score": 2,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537421",
+    "date": "2026-07-02",
+    "home_team": "United States",
+    "away_team": "Bosnia and Herzegovina",
+    "home_score": 2,
+    "away_score": 0,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537420",
+    "date": "2026-07-02",
+    "home_team": "Spain",
+    "away_team": "Austria",
+    "home_score": 3,
+    "away_score": 0,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537419",
+    "date": "2026-07-02",
+    "home_team": "Portugal",
+    "away_team": "Croatia",
+    "home_score": 2,
+    "away_score": 1,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537430",
+    "date": "2026-07-04",
+    "home_team": "Switzerland",
+    "away_team": "Algeria",
+    "home_score": 2,
+    "away_score": 0,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537429",
+    "date": "2026-07-03",
+    "home_team": "Australia",
+    "away_team": "Egypt",
+    "home_score": 1,
+    "away_score": 1,
+    "outcome": "draw"
+  },
+  {
+    "match_id": "537428",
+    "date": "2026-07-03",
+    "home_team": "Argentina",
+    "away_team": "Cape Verde",
+    "home_score": 3,
+    "away_score": 2,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537427",
+    "date": "2026-07-03",
+    "home_team": "Colombia",
+    "away_team": "Ghana",
+    "home_score": 1,
+    "away_score": 0,
+    "outcome": "home_win"
   }
 ]

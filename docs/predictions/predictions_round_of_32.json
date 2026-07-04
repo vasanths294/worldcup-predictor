@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T18:49:00.356039",
+  "generated_at": "2026-07-04T05:26:14.072644",
   "matchday": "Round of 32",
   "stage": "Round of 32",
   "model_version": "xgb_v1",
@@ -10,45 +10,45 @@
       "away_team": "Canada",
       "city": "Los Angeles",
       "neutral": 1,
-      "home_win_prob": "0.318",
-      "draw_prob": "0.22",
-      "away_win_prob": "0.462",
+      "home_win_prob": "0.152",
+      "draw_prob": "0.251",
+      "away_win_prob": "0.597",
       "predicted": "away_win",
       "predicted_winner": "Canada",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "top_scorelines": [
         {
           "score": "0-2",
-          "prob": 0.109
-        },
-        {
-          "score": "1-2",
-          "prob": 0.0978
+          "prob": 0.1389
         },
         {
           "score": "0-1",
-          "prob": 0.0977
-        },
-        {
-          "score": "1-1",
-          "prob": 0.0876
+          "prob": 0.121
         },
         {
           "score": "0-3",
-          "prob": 0.0811
+          "prob": 0.1063
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0899
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0783
         }
       ],
       "top_home_score": null,
       "top_draw_score": {
         "score": "1-1",
-        "prob": 0.0876
+        "prob": 0.0783
       },
       "top_away_score": {
         "score": "0-2",
-        "prob": 0.109
+        "prob": 0.1389
       },
-      "home_elo": 1624.6,
-      "away_elo": 1754.9,
+      "home_elo": 1605.4,
+      "away_elo": 1774.1,
       "match_id": 537417,
       "date": "2026-06-28",
       "group": NaN,
@@ -60,45 +60,48 @@
       "away_team": "Japan",
       "city": "Houston",
       "neutral": 1,
-      "home_win_prob": "0.347",
-      "draw_prob": "0.225",
-      "away_win_prob": "0.429",
+      "home_win_prob": "0.309",
+      "draw_prob": "0.237",
+      "away_win_prob": "0.454",
       "predicted": "away_win",
       "predicted_winner": "Japan",
-      "confidence": "LOW",
+      "confidence": "MEDIUM",
       "top_scorelines": [
         {
           "score": "2-1",
-          "prob": 0.0709
-        },
-        {
-          "score": "2-2",
-          "prob": 0.0675
-        },
-        {
-          "score": "3-1",
-          "prob": 0.0619
-        },
-        {
-          "score": "3-2",
-          "prob": 0.0589
+          "prob": 0.0754
         },
         {
           "score": "1-1",
-          "prob": 0.0541
+          "prob": 0.0753
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0732
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0731
+        },
+        {
+          "score": "3-1",
+          "prob": 0.0504
         }
       ],
       "top_home_score": {
         "score": "2-1",
-        "prob": 0.0709
+        "prob": 0.0754
       },
       "top_draw_score": {
-        "score": "2-2",
-        "prob": 0.0675
+        "score": "1-1",
+        "prob": 0.0753
       },
-      "top_away_score": null,
-      "home_elo": 1859.2,
-      "away_elo": 1877.5,
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0731
+      },
+      "home_elo": 1890.8,
+      "away_elo": 1845.9,
       "match_id": 537423,
       "date": "2026-06-29",
       "group": NaN,
@@ -110,42 +113,45 @@
       "away_team": "Paraguay",
       "city": "Boston",
       "neutral": 1,
-      "home_win_prob": "0.76",
-      "draw_prob": "0.151",
-      "away_win_prob": "0.09",
+      "home_win_prob": "0.671",
+      "draw_prob": "0.198",
+      "away_win_prob": "0.131",
       "predicted": "home_win",
       "predicted_winner": "Germany",
       "confidence": "HIGH",
       "top_scorelines": [
         {
-          "score": "3-1",
-          "prob": 0.0801
-        },
-        {
-          "score": "3-0",
-          "prob": 0.0719
-        },
-        {
           "score": "2-1",
-          "prob": 0.0711
+          "prob": 0.0858
         },
         {
-          "score": "4-1",
-          "prob": 0.0677
+          "score": "3-1",
+          "prob": 0.0809
         },
         {
           "score": "2-0",
-          "prob": 0.0638
+          "prob": 0.073
+        },
+        {
+          "score": "3-0",
+          "prob": 0.0688
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0607
         }
       ],
       "top_home_score": {
-        "score": "3-1",
-        "prob": 0.0801
+        "score": "2-1",
+        "prob": 0.0858
       },
-      "top_draw_score": null,
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0607
+      },
       "top_away_score": null,
-      "home_elo": 1866.3,
-      "away_elo": 1713.1,
+      "home_elo": 1853.9,
+      "away_elo": 1725.5,
       "match_id": 537415,
       "date": "2026-06-29",
       "group": NaN,
@@ -157,45 +163,48 @@
       "away_team": "Morocco",
       "city": "Monterrey",
       "neutral": 1,
-      "home_win_prob": "0.211",
-      "draw_prob": "0.168",
-      "away_win_prob": "0.621",
+      "home_win_prob": "0.245",
+      "draw_prob": "0.205",
+      "away_win_prob": "0.55",
       "predicted": "away_win",
       "predicted_winner": "Morocco",
-      "confidence": "HIGH",
+      "confidence": "MEDIUM",
       "top_scorelines": [
         {
-          "score": "1-2",
-          "prob": 0.0699
+          "score": "2-1",
+          "prob": 0.0747
         },
         {
           "score": "2-2",
-          "prob": 0.0698
-        },
-        {
-          "score": "1-3",
-          "prob": 0.0576
-        },
-        {
-          "score": "2-3",
-          "prob": 0.0575
+          "prob": 0.0726
         },
         {
           "score": "1-1",
-          "prob": 0.0566
+          "prob": 0.0683
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0664
+        },
+        {
+          "score": "3-1",
+          "prob": 0.0544
         }
       ],
-      "top_home_score": null,
+      "top_home_score": {
+        "score": "2-1",
+        "prob": 0.0747
+      },
       "top_draw_score": {
         "score": "2-2",
-        "prob": 0.0698
+        "prob": 0.0726
       },
       "top_away_score": {
         "score": "1-2",
-        "prob": 0.0699
+        "prob": 0.0664
       },
-      "home_elo": 1845.5,
-      "away_elo": 1892.9,
+      "home_elo": 1849.6,
+      "away_elo": 1888.8,
       "match_id": 537418,
       "date": "2026-06-30",
       "group": NaN,
@@ -207,48 +216,45 @@
       "away_team": "Norway",
       "city": "Dallas",
       "neutral": 1,
-      "home_win_prob": "0.389",
-      "draw_prob": "0.209",
-      "away_win_prob": "0.402",
+      "home_win_prob": "0.197",
+      "draw_prob": "0.181",
+      "away_win_prob": "0.621",
       "predicted": "away_win",
       "predicted_winner": "Norway",
-      "confidence": "LOW",
+      "confidence": "HIGH",
       "top_scorelines": [
         {
           "score": "1-2",
-          "prob": 0.087
-        },
-        {
-          "score": "1-1",
-          "prob": 0.0762
-        },
-        {
-          "score": "2-2",
-          "prob": 0.068
+          "prob": 0.0919
         },
         {
           "score": "1-3",
-          "prob": 0.0662
+          "prob": 0.0757
         },
         {
-          "score": "2-1",
-          "prob": 0.0596
+          "score": "1-1",
+          "prob": 0.0743
+        },
+        {
+          "score": "0-2",
+          "prob": 0.072
+        },
+        {
+          "score": "0-3",
+          "prob": 0.0593
         }
       ],
-      "top_home_score": {
-        "score": "2-1",
-        "prob": 0.0596
-      },
+      "top_home_score": null,
       "top_draw_score": {
         "score": "1-1",
-        "prob": 0.0762
+        "prob": 0.0743
       },
       "top_away_score": {
         "score": "1-2",
-        "prob": 0.087
+        "prob": 0.0919
       },
-      "home_elo": 1778.1,
-      "away_elo": 1798.6,
+      "home_elo": 1749.9,
+      "away_elo": 1826.8,
       "match_id": 537424,
       "date": "2026-06-30",
       "group": NaN,
@@ -260,45 +266,42 @@
       "away_team": "Sweden",
       "city": "New York/NJ",
       "neutral": 1,
-      "home_win_prob": "0.686",
-      "draw_prob": "0.218",
-      "away_win_prob": "0.097",
+      "home_win_prob": "0.736",
+      "draw_prob": "0.201",
+      "away_win_prob": "0.063",
       "predicted": "home_win",
       "predicted_winner": "France",
       "confidence": "HIGH",
       "top_scorelines": [
         {
-          "score": "2-1",
-          "prob": 0.0741
-        },
-        {
           "score": "3-1",
-          "prob": 0.0738
+          "prob": 0.0769
         },
         {
-          "score": "2-2",
-          "prob": 0.0573
-        },
-        {
-          "score": "3-2",
-          "prob": 0.057
+          "score": "2-1",
+          "prob": 0.069
         },
         {
           "score": "4-1",
-          "prob": 0.0552
+          "prob": 0.0643
+        },
+        {
+          "score": "3-0",
+          "prob": 0.0567
+        },
+        {
+          "score": "3-2",
+          "prob": 0.0521
         }
       ],
       "top_home_score": {
-        "score": "2-1",
-        "prob": 0.0741
+        "score": "3-1",
+        "prob": 0.0769
       },
-      "top_draw_score": {
-        "score": "2-2",
-        "prob": 0.0573
-      },
+      "top_draw_score": null,
       "top_away_score": null,
-      "home_elo": 1939.1,
-      "away_elo": 1687.6,
+      "home_elo": 1950.5,
+      "away_elo": 1676.2,
       "match_id": 537416,
       "date": "2026-06-30",
       "group": NaN,
@@ -310,45 +313,42 @@
       "away_team": "Ecuador",
       "city": "Mexico City",
       "neutral": 0,
-      "home_win_prob": "0.711",
-      "draw_prob": "0.209",
-      "away_win_prob": "0.08",
+      "home_win_prob": "0.692",
+      "draw_prob": "0.244",
+      "away_win_prob": "0.064",
       "predicted": "home_win",
       "predicted_winner": "Mexico",
       "confidence": "HIGH",
       "top_scorelines": [
         {
-          "score": "2-1",
-          "prob": 0.0886
-        },
-        {
-          "score": "3-1",
-          "prob": 0.0811
-        },
-        {
           "score": "2-0",
-          "prob": 0.0805
+          "prob": 0.1057
         },
         {
           "score": "3-0",
-          "prob": 0.0737
+          "prob": 0.1007
         },
         {
-          "score": "1-1",
-          "prob": 0.0645
+          "score": "2-1",
+          "prob": 0.0842
+        },
+        {
+          "score": "3-1",
+          "prob": 0.0802
+        },
+        {
+          "score": "1-0",
+          "prob": 0.074
         }
       ],
       "top_home_score": {
-        "score": "2-1",
-        "prob": 0.0886
+        "score": "2-0",
+        "prob": 0.1057
       },
-      "top_draw_score": {
-        "score": "1-1",
-        "prob": 0.0645
-      },
+      "top_draw_score": null,
       "top_away_score": null,
-      "home_elo": 1855.0,
-      "away_elo": 1790.8,
+      "home_elo": 1879.5,
+      "away_elo": 1766.3,
       "match_id": 537425,
       "date": "2026-07-01",
       "group": NaN,
@@ -360,42 +360,42 @@
       "away_team": "DR Congo",
       "city": "Atlanta",
       "neutral": 1,
-      "home_win_prob": "0.739",
-      "draw_prob": "0.191",
-      "away_win_prob": "0.07",
+      "home_win_prob": "0.756",
+      "draw_prob": "0.178",
+      "away_win_prob": "0.066",
       "predicted": "home_win",
       "predicted_winner": "England",
       "confidence": "HIGH",
       "top_scorelines": [
         {
           "score": "2-0",
-          "prob": 0.1145
-        },
-        {
-          "score": "3-0",
-          "prob": 0.0958
+          "prob": 0.0965
         },
         {
           "score": "2-1",
-          "prob": 0.0921
+          "prob": 0.0905
         },
         {
-          "score": "1-0",
-          "prob": 0.0913
+          "score": "3-0",
+          "prob": 0.086
         },
         {
           "score": "3-1",
-          "prob": 0.0771
+          "prob": 0.0807
+        },
+        {
+          "score": "1-0",
+          "prob": 0.0722
         }
       ],
       "top_home_score": {
         "score": "2-0",
-        "prob": 0.1145
+        "prob": 0.0965
       },
       "top_draw_score": null,
       "top_away_score": null,
-      "home_elo": 1908.9,
-      "away_elo": 1697.0,
+      "home_elo": 1922.6,
+      "away_elo": 1683.3,
       "match_id": 537426,
       "date": "2026-07-01",
       "group": NaN,
@@ -407,45 +407,45 @@
       "away_team": "Senegal",
       "city": "Seattle",
       "neutral": 1,
-      "home_win_prob": "0.51",
-      "draw_prob": "0.195",
-      "away_win_prob": "0.295",
+      "home_win_prob": "0.58",
+      "draw_prob": "0.234",
+      "away_win_prob": "0.187",
       "predicted": "home_win",
       "predicted_winner": "Belgium",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "top_scorelines": [
         {
           "score": "2-1",
-          "prob": 0.0735
-        },
-        {
-          "score": "2-2",
-          "prob": 0.0677
+          "prob": 0.074
         },
         {
           "score": "3-1",
-          "prob": 0.0633
+          "prob": 0.0698
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0622
         },
         {
           "score": "3-2",
-          "prob": 0.0584
+          "prob": 0.0586
         },
         {
           "score": "1-1",
-          "prob": 0.0569
+          "prob": 0.0523
         }
       ],
       "top_home_score": {
         "score": "2-1",
-        "prob": 0.0735
+        "prob": 0.074
       },
       "top_draw_score": {
         "score": "2-2",
-        "prob": 0.0677
+        "prob": 0.0622
       },
       "top_away_score": null,
-      "home_elo": 1777.8,
-      "away_elo": 1782.8,
+      "home_elo": 1808.2,
+      "away_elo": 1752.4,
       "match_id": 537422,
       "date": "2026-07-01",
       "group": NaN,
@@ -457,42 +457,42 @@
       "away_team": "Bosnia and Herzegovina",
       "city": "San Francisco",
       "neutral": 0,
-      "home_win_prob": "0.797",
-      "draw_prob": "0.143",
-      "away_win_prob": "0.06",
+      "home_win_prob": "0.824",
+      "draw_prob": "0.136",
+      "away_win_prob": "0.04",
       "predicted": "home_win",
       "predicted_winner": "United States",
       "confidence": "HIGH",
       "top_scorelines": [
         {
           "score": "2-0",
-          "prob": 0.092
+          "prob": 0.0976
         },
         {
           "score": "3-0",
-          "prob": 0.0882
+          "prob": 0.0903
         },
         {
           "score": "2-1",
-          "prob": 0.0855
+          "prob": 0.0878
         },
         {
           "score": "3-1",
-          "prob": 0.082
+          "prob": 0.0813
         },
         {
           "score": "1-0",
-          "prob": 0.064
+          "prob": 0.0703
         }
       ],
       "top_home_score": {
         "score": "2-0",
-        "prob": 0.092
+        "prob": 0.0976
       },
       "top_draw_score": null,
       "top_away_score": null,
-      "home_elo": 1802.2,
-      "away_elo": 1582.3,
+      "home_elo": 1815.4,
+      "away_elo": 1569.1,
       "match_id": 537421,
       "date": "2026-07-02",
       "group": NaN,
@@ -504,48 +504,45 @@
       "away_team": "Austria",
       "city": "Los Angeles",
       "neutral": 1,
-      "home_win_prob": "0.51",
-      "draw_prob": "0.284",
-      "away_win_prob": "0.206",
+      "home_win_prob": "0.701",
+      "draw_prob": "0.188",
+      "away_win_prob": "0.11",
       "predicted": "home_win",
       "predicted_winner": "Spain",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "top_scorelines": [
         {
           "score": "2-1",
-          "prob": 0.0926
-        },
-        {
-          "score": "1-1",
-          "prob": 0.0915
-        },
-        {
-          "score": "2-2",
-          "prob": 0.0662
-        },
-        {
-          "score": "1-2",
-          "prob": 0.0654
+          "prob": 0.0916
         },
         {
           "score": "2-0",
-          "prob": 0.0648
+          "prob": 0.08
+        },
+        {
+          "score": "3-1",
+          "prob": 0.0792
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0707
+        },
+        {
+          "score": "3-0",
+          "prob": 0.0691
         }
       ],
       "top_home_score": {
         "score": "2-1",
-        "prob": 0.0926
+        "prob": 0.0916
       },
       "top_draw_score": {
         "score": "1-1",
-        "prob": 0.0915
+        "prob": 0.0707
       },
-      "top_away_score": {
-        "score": "1-2",
-        "prob": 0.0654
-      },
-      "home_elo": 1956.0,
-      "away_elo": 1760.1,
+      "top_away_score": null,
+      "home_elo": 1970.7,
+      "away_elo": 1745.4,
       "match_id": 537420,
       "date": "2026-07-02",
       "group": NaN,
@@ -557,45 +554,45 @@
       "away_team": "Croatia",
       "city": "Toronto",
       "neutral": 1,
-      "home_win_prob": "0.472",
-      "draw_prob": "0.273",
-      "away_win_prob": "0.256",
+      "home_win_prob": "0.584",
+      "draw_prob": "0.222",
+      "away_win_prob": "0.193",
       "predicted": "home_win",
       "predicted_winner": "Portugal",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "top_scorelines": [
         {
           "score": "2-1",
-          "prob": 0.0941
+          "prob": 0.0916
         },
         {
           "score": "1-1",
-          "prob": 0.0893
-        },
-        {
-          "score": "2-0",
-          "prob": 0.069
+          "prob": 0.0804
         },
         {
           "score": "3-1",
-          "prob": 0.0661
+          "prob": 0.0695
         },
         {
-          "score": "1-0",
-          "prob": 0.0655
+          "score": "2-0",
+          "prob": 0.0649
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0646
         }
       ],
       "top_home_score": {
         "score": "2-1",
-        "prob": 0.0941
+        "prob": 0.0916
       },
       "top_draw_score": {
         "score": "1-1",
-        "prob": 0.0893
+        "prob": 0.0804
       },
       "top_away_score": null,
-      "home_elo": 1856.1,
-      "away_elo": 1785.9,
+      "home_elo": 1880.1,
+      "away_elo": 1761.9,
       "match_id": 537419,
       "date": "2026-07-02",
       "group": NaN,
@@ -607,48 +604,48 @@
       "away_team": "Egypt",
       "city": "Dallas",
       "neutral": 1,
-      "home_win_prob": "0.468",
-      "draw_prob": "0.23",
-      "away_win_prob": "0.302",
+      "home_win_prob": "0.456",
+      "draw_prob": "0.234",
+      "away_win_prob": "0.31",
       "predicted": "home_win",
       "predicted_winner": "Australia",
       "confidence": "MEDIUM",
       "top_scorelines": [
         {
           "score": "1-1",
-          "prob": 0.1249
+          "prob": 0.1222
         },
         {
           "score": "0-1",
-          "prob": 0.1114
+          "prob": 0.0982
         },
         {
           "score": "1-2",
-          "prob": 0.0895
+          "prob": 0.0882
         },
         {
           "score": "1-0",
-          "prob": 0.0872
+          "prob": 0.0846
         },
         {
-          "score": "0-2",
-          "prob": 0.0798
+          "score": "2-1",
+          "prob": 0.076
         }
       ],
       "top_home_score": {
         "score": "1-0",
-        "prob": 0.0872
+        "prob": 0.0846
       },
       "top_draw_score": {
         "score": "1-1",
-        "prob": 0.1249
+        "prob": 0.1222
       },
       "top_away_score": {
         "score": "0-1",
-        "prob": 0.1114
+        "prob": 0.0982
       },
-      "home_elo": 1838.8,
-      "away_elo": 1735.8,
+      "home_elo": 1830.2,
+      "away_elo": 1744.4,
       "match_id": 537429,
       "date": "2026-07-03",
       "group": NaN,
@@ -660,42 +657,42 @@
       "away_team": "Cape Verde",
       "city": "Miami",
       "neutral": 1,
-      "home_win_prob": "0.87",
-      "draw_prob": "0.097",
-      "away_win_prob": "0.033",
+      "home_win_prob": "0.71",
+      "draw_prob": "0.222",
+      "away_win_prob": "0.068",
       "predicted": "home_win",
       "predicted_winner": "Argentina",
       "confidence": "HIGH",
       "top_scorelines": [
         {
           "score": "3-0",
-          "prob": 0.1056
+          "prob": 0.1155
         },
         {
           "score": "2-0",
-          "prob": 0.1013
+          "prob": 0.1146
         },
         {
           "score": "4-0",
-          "prob": 0.0824
+          "prob": 0.0874
         },
         {
           "score": "3-1",
-          "prob": 0.0792
+          "prob": 0.0765
         },
         {
           "score": "2-1",
-          "prob": 0.076
+          "prob": 0.0759
         }
       ],
       "top_home_score": {
         "score": "3-0",
-        "prob": 0.1056
+        "prob": 0.1155
       },
       "top_draw_score": null,
       "top_away_score": null,
-      "home_elo": 1972.2,
-      "away_elo": 1627.4,
+      "home_elo": 1979.4,
+      "away_elo": 1620.2,
       "match_id": 537428,
       "date": "2026-07-03",
       "group": NaN,
@@ -707,42 +704,45 @@
       "away_team": "Ghana",
       "city": "Kansas City",
       "neutral": 1,
-      "home_win_prob": "0.787",
-      "draw_prob": "0.165",
-      "away_win_prob": "0.049",
+      "home_win_prob": "0.714",
+      "draw_prob": "0.236",
+      "away_win_prob": "0.05",
       "predicted": "home_win",
       "predicted_winner": "Colombia",
       "confidence": "HIGH",
       "top_scorelines": [
         {
           "score": "2-0",
-          "prob": 0.1574
+          "prob": 0.1641
         },
         {
           "score": "1-0",
-          "prob": 0.129
+          "prob": 0.16
         },
         {
           "score": "3-0",
-          "prob": 0.128
+          "prob": 0.1122
         },
         {
           "score": "2-1",
-          "prob": 0.0787
+          "prob": 0.082
         },
         {
-          "score": "4-0",
-          "prob": 0.0781
+          "score": "1-1",
+          "prob": 0.08
         }
       ],
       "top_home_score": {
         "score": "2-0",
-        "prob": 0.1574
+        "prob": 0.1641
       },
-      "top_draw_score": null,
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.08
+      },
       "top_away_score": null,
-      "home_elo": 1866.2,
-      "away_elo": 1614.4,
+      "home_elo": 1877.6,
+      "away_elo": 1603.0,
       "match_id": 537427,
       "date": "2026-07-03",
       "group": NaN,
@@ -754,48 +754,48 @@
       "away_team": "Algeria",
       "city": "Vancouver",
       "neutral": 1,
-      "home_win_prob": "0.324",
-      "draw_prob": "0.233",
-      "away_win_prob": "0.443",
-      "predicted": "away_win",
-      "predicted_winner": "Algeria",
-      "confidence": "LOW",
+      "home_win_prob": "0.525",
+      "draw_prob": "0.231",
+      "away_win_prob": "0.243",
+      "predicted": "home_win",
+      "predicted_winner": "Switzerland",
+      "confidence": "MEDIUM",
       "top_scorelines": [
         {
-          "score": "2-2",
-          "prob": 0.0727
-        },
-        {
           "score": "2-1",
-          "prob": 0.0705
-        },
-        {
-          "score": "1-2",
-          "prob": 0.0671
+          "prob": 0.0859
         },
         {
           "score": "1-1",
-          "prob": 0.065
+          "prob": 0.0785
         },
         {
-          "score": "3-2",
-          "prob": 0.0525
+          "score": "2-2",
+          "prob": 0.0698
+        },
+        {
+          "score": "1-2",
+          "prob": 0.0638
+        },
+        {
+          "score": "3-1",
+          "prob": 0.0626
         }
       ],
       "top_home_score": {
         "score": "2-1",
-        "prob": 0.0705
+        "prob": 0.0859
       },
       "top_draw_score": {
-        "score": "2-2",
-        "prob": 0.0727
+        "score": "1-1",
+        "prob": 0.0785
       },
       "top_away_score": {
         "score": "1-2",
-        "prob": 0.0671
+        "prob": 0.0638
       },
-      "home_elo": 1755.6,
-      "away_elo": 1782.7,
+      "home_elo": 1787.9,
+      "away_elo": 1750.4,
       "match_id": 537430,
       "date": "2026-07-04",
       "group": NaN,
