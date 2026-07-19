@@ -1,7 +1,7 @@
 {
-  "total_predicted": 100,
-  "total_correct": 66,
-  "accuracy": 0.66,
+  "total_predicted": 102,
+  "total_correct": 68,
+  "accuracy": 0.667,
   "by_matchday": [
     {
       "matchday": "Matchday 1",
@@ -38,7 +38,13 @@
       "correct": 12,
       "total": 16,
       "accuracy": 0.75
+    },
+    {
+      "matchday": "Semifinal",
+      "correct": 2,
+      "total": 2,
+      "accuracy": 1.0
     }
   ],
-  "last_updated": "2026-07-19T05:08:06.088213"
+  "last_updated": "2026-07-19T05:13:16.966824"
 }

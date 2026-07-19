@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-07-19T05:14:14.782189",
+  "matchday": "Third Place",
+  "stage": "Third Place",
+  "model_version": "xgb_v1",
+  "total": 1,
+  "predictions": [
+    {
+      "home_team": "France",
+      "away_team": "England",
+      "city": "Miami",
+      "neutral": 1,
+      "home_win_prob": "0.199",
+      "draw_prob": "0.216",
+      "away_win_prob": "0.585",
+      "predicted": "away_win",
+      "predicted_winner": "England",
+      "confidence": "HIGH",
+      "top_scorelines": [
+        {
+          "score": "1-2",
+          "prob": 0.0827
+        },
+        {
+          "score": "1-1",
+          "prob": 0.0726
+        },
+        {
+          "score": "2-2",
+          "prob": 0.0702
+        },
+        {
+          "score": "1-3",
+          "prob": 0.0628
+        },
+        {
+          "score": "2-1",
+          "prob": 0.0616
+        }
+      ],
+      "top_home_score": {
+        "score": "2-1",
+        "prob": 0.0616
+      },
+      "top_draw_score": {
+        "score": "1-1",
+        "prob": 0.0726
+      },
+      "top_away_score": {
+        "score": "1-2",
+        "prob": 0.0827
+      },
+      "home_elo": 1950.5,
+      "away_elo": 1922.6,
+      "match_id": 537389,
+      "date": "2026-07-18",
+      "group": NaN,
+      "stage": "Third Place",
+      "matchday": "Third Place"
+    }
+  ]
+}

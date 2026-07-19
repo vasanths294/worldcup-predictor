@@ -1332,8 +1332,8 @@
     "stage": "Third Place",
     "matchday": "Third Place",
     "group": "nan",
-    "home_team": null,
-    "away_team": null,
+    "home_team": "France",
+    "away_team": "England",
     "city": "Miami",
     "neutral": 1,
     "status": "pending"
@@ -1345,8 +1345,8 @@
     "stage": "Final",
     "matchday": "Final",
     "group": "nan",
-    "home_team": null,
-    "away_team": null,
+    "home_team": "Spain",
+    "away_team": "Argentina",
     "city": "New York/NJ",
     "neutral": 1,
     "status": "pending"
