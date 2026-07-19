@@ -1,7 +1,7 @@
 {
-  "total_predicted": 96,
-  "total_correct": 62,
-  "accuracy": 0.646,
+  "total_predicted": 100,
+  "total_correct": 66,
+  "accuracy": 0.66,
   "by_matchday": [
     {
       "matchday": "Matchday 1",
@@ -22,6 +22,12 @@
       "accuracy": 0.625
     },
     {
+      "matchday": "Quarterfinal",
+      "correct": 4,
+      "total": 4,
+      "accuracy": 1.0
+    },
+    {
       "matchday": "Round of 16",
       "correct": 6,
       "total": 8,
@@ -34,5 +40,5 @@
       "accuracy": 0.75
     }
   ],
-  "last_updated": "2026-07-19T04:51:05.334517"
+  "last_updated": "2026-07-19T05:08:06.088213"
 }
