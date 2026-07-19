@@ -916,5 +916,14 @@
     "home_score": 1,
     "away_score": 2,
     "outcome": "away_win"
+  },
+  {
+    "match_id": "537389",
+    "date": "2026-07-18",
+    "home_team": "France",
+    "away_team": "England",
+    "home_score": 4,
+    "away_score": 6,
+    "outcome": "away_win"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "total_predicted": 102,
-  "total_correct": 68,
-  "accuracy": 0.667,
+  "total_predicted": 103,
+  "total_correct": 69,
+  "accuracy": 0.67,
   "by_matchday": [
     {
       "matchday": "Matchday 1",
@@ -44,7 +44,13 @@
       "correct": 2,
       "total": 2,
       "accuracy": 1.0
+    },
+    {
+      "matchday": "Third Place",
+      "correct": 1,
+      "total": 1,
+      "accuracy": 1.0
     }
   ],
-  "last_updated": "2026-07-19T05:13:16.966824"
+  "last_updated": "2026-07-19T05:17:49.266203"
 }
