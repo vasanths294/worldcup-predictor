@@ -237,12 +237,19 @@ function buildMatchRow(m) {
 
   // score block
   let scoreHtml = "";
-  if (result) {
+if (result) {
+    const penWinner = result.penalty_winner || "";
+    const penHtml = penWinner
+        ? `<div style="font-size:10px;color:var(--amber);text-align:center;margin-top:2px">${penWinner} win (pen)</div>`
+        : "";
     scoreHtml = `
-      <div class="score-block">
-        <span class="score-num">${result.home_score}</span>
-        <span class="score-sep">–</span>
-        <span class="score-num">${result.away_score}</span>
+      <div class="score-block" style="flex-direction:column;align-items:center">
+        <div style="display:flex;align-items:center;gap:5px">
+          <span class="score-num">${result.home_score}</span>
+          <span class="score-sep">–</span>
+          <span class="score-num">${result.away_score}</span>
+        </div>
+        ${penHtml}
       </div>`;
   } else {
     scoreHtml = `
@@ -511,7 +518,9 @@ function renderAccuracy() {
           <span class="badge ${correct ? "badge-correct" : "badge-wrong"}">${correct ? "✓ Correct" : "✗ Wrong"}</span>
         </div>
         <div class="accuracy-meta">
-          <span>Result: <strong>${result.home_score}–${result.away_score} (${actWin})</strong></span>
+          <span>Result: <strong>${result.home_score}–${result.away_score} (${actWin})</strong>
+${result.penalty_winner ? `<span style="color:var(--amber);font-size:11px"> · ${result.penalty_winner} win on pens</span>` : ""}
+</span>
           <span>Predicted: <strong>${predWin}</strong></span>
         </div>
         <div class="prob-bar-wrap">
