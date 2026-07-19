@@ -862,5 +862,41 @@
     "home_score": 0,
     "away_score": 0,
     "outcome": "draw"
+  },
+  {
+    "match_id": "537383",
+    "date": "2026-07-09",
+    "home_team": "France",
+    "away_team": "Morocco",
+    "home_score": 2,
+    "away_score": 0,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537384",
+    "date": "2026-07-10",
+    "home_team": "Spain",
+    "away_team": "Belgium",
+    "home_score": 2,
+    "away_score": 1,
+    "outcome": "home_win"
+  },
+  {
+    "match_id": "537385",
+    "date": "2026-07-11",
+    "home_team": "Norway",
+    "away_team": "England",
+    "home_score": 1,
+    "away_score": 2,
+    "outcome": "away_win"
+  },
+  {
+    "match_id": "537386",
+    "date": "2026-07-11",
+    "home_team": "Argentina",
+    "away_team": "Switzerland",
+    "home_score": 3,
+    "away_score": 1,
+    "outcome": "home_win"
   }
 ]
