@@ -925,5 +925,14 @@
     "home_score": 4,
     "away_score": 6,
     "outcome": "away_win"
+  },
+  {
+    "match_id": "537390",
+    "date": "2026-07-19",
+    "home_team": "Spain",
+    "away_team": "Argentina",
+    "home_score": 1,
+    "away_score": 0,
+    "outcome": "home_win"
   }
 ]
